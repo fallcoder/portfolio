@@ -31,5 +31,6 @@ This project was built using Bootstrap, an open-source CSS framework that simpli
 * [Bootstrap Official Website](https://getbootstrap.com/): The official Bootstrap website is an excellent resource for discovering documentation, components, templates, and quick start guides.
 * [Bootstrap GitHub](https://github.com/twbs/bootstrap): Bootstrap's GitHub repository contains the source code, open issues, and discussions about future versions.
 * [Bootstrap Expo](https://expo.getbootstrap.com/): Explore examples of real projects built with Bootstrap in this interactive gallery.
-* [Bootstrap Themes](https://themes.getbootstrap.com/): Browse a collection of premium and free themes to customize the look of your Bootstrap websites.
+* [Bootstrap Themes](https://themes.getbootstrap.com/): Browse a collection of premium and free themes to customize the look of your Bootstrap websites.<br>
+
 Feel free to dive into the world of Bootstrap and experiment with it in your own projects!
